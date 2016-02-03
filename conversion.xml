@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<project name="build-tests">
+          <xslt in="/home/harkesh/abc.xml"
+          out="/home/harkesh/abc.html"
+          style="/home/harkesh/jmeter-results-detail-report_21.xsl"/>
+</project>
